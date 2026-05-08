@@ -226,7 +226,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyabmuhammad401@gmail.com)
 )
 
-**💼 Currently:** Full Stack Software Engineer at [GCS Pvt. Ltd](https://gcspvt.com/)  
+**💼 Currently:** Full Stack Software Engineer and Backend Engineer )  
 **🎯 Goals:** Building towards bigger opportunities in top-tier companies or creating my own MNC  
 **🤝 Open to:** Collaborations, AI research partnerships, and challenging backend projects
 
